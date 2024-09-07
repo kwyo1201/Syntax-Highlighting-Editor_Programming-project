@@ -1,0 +1,4 @@
+# Syntax-Highlighting-Editor_Programming-project
+
+This project aims to develop a lightweight and functional text editor with syntax highlighting for specific programming languages. The editor will use color coding to visually distinguish various programming elements, such as keywords, variables, and strings, making it easier for users to write and debug code. By clearly highlighting these different components, the editor will enhance the overall user experience and improve coding efficiency.
+At the core of the project are two key processes: lexing, which transforms the source code into tokens, and parsing, which analyzes these tokens to understand the structure of the code. Based on the parsed results, syntax rules will be applied to enable clear visual differentiation of code elements. The editor will be developed in Python, aiming to not only emphasize syntax but also improve user convenience and productivity
